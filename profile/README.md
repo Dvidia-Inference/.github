@@ -24,4 +24,4 @@ To contribute, see the [training contribution guide](https://github.com/Dvidia-I
 
 Open-weight inference and hardware research live with our sister product, [OW Terminal](https://owterminal.com/).
 
-[hello@dvidia.org](mailto:hello@dvidia.org) · [X · @IAMMRRIVR](https://x.com/IAMMRRIVR)
+[hello@dvidia.org](mailto:hello@dvidia.org) · [X · @iammrriver](https://x.com/iammrriver)
